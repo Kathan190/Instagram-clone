@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    background-color: #fff;
+    box-shadow: -1 1px 3px -1px rgba(0, 0, 0, 0.75);
+}
+
+.heading-section {
+    font-size: 25px;
+    justify-content: center;
+    padding-left: 30px;
+    font-style: italic;
+    display: flex;
+}
